@@ -12,5 +12,18 @@ console.log(10 / 0);
 console.log(10 / -0);
 console.log(1 * 'String');
 
-// javascript는 대소문자를 구별함
-var x = nan;
+// String Type
+var str1, str2, str3;
+str1 = 'single quote str';
+str2 = "double quote str";
+str3 = `backtick str`;
+
+console.log(str1);
+console.log(str2);
+console.log(str3);
+
+str4 = '당근은 "carrot"입니다.';
+str5 = "좋아하는 향수는 'Jomalone'이다.";
+
+console.log(str4);
+console.log(str5);
