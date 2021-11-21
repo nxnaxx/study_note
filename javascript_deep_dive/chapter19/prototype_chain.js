@@ -18,3 +18,5 @@ Object.setPrototypeOf(me, parent);
 
 console.log(me instanceof Hobby);
 console.log(me instanceof Object);
+
+// 
