@@ -26,7 +26,7 @@
 | 27 | 배열 |  |
 | 28 | Number |  |
 | 29 | Math |  |
-| 30 | Date |  |
+| 30 | Date | ✔ |
 | 31 | RegExp |  |
 | 32 | String |  |
 | 33 | Symbol |  |
