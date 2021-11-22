@@ -1,0 +1,13 @@
+.btn-wrap p {
+  font-size: 1.5rem;
+}
+
+.btn {
+  border: 0;
+  background: none;
+}
+
+.btn img {
+  width: 3rem;
+  cursor: pointer;
+}
